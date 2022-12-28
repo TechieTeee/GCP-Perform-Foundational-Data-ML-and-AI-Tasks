@@ -1,3 +1,4 @@
+![drew-beamer-3SIXZisims4-unsplash](https://user-images.githubusercontent.com/100870737/209787783-34c9d0d9-6b13-4dcb-8fad-fbc8d8797efe.jpg)
 
 
 ## Part 1: Cloud Natural Language API
@@ -19,7 +20,7 @@ Lab on GCP Natural Language API and CLI Inside SSH, Used Description of Historic
 ## Part 2: Speech API
 Lab on GCP Speech API and CLI Inside SSH, Used Sample Sentences from U.S. Speaker and then API to Identify Elements of the Sentence
 
-## Objectives Covered
+## Speech API Objectives Covered
 - Created an API key
 - Created a Speech API request
 - Called the Speech API request
