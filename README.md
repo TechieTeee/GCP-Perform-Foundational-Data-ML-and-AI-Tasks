@@ -5,6 +5,9 @@
 Lab on GCP Natural Language API and CLI Inside SSH, Used Description of Historical Art Work for Practicing NLP Analysis in GCP
 
 ## Objectives Covered
+- Created an API key
+- Created an NLP API request
+- Called the NLP API request
 - Syntax Analysis
 - Entity Recognition
 - Sentiment Analysis
