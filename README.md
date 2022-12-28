@@ -1,9 +1,9 @@
 
 
-## Cloud Natural Language API
+## Part 1: Cloud Natural Language API
 Lab on GCP Natural Language API and CLI Inside SSH, Used Description of Historical Art Work for Practicing NLP Analysis in GCP
 
-## Cloud Natural Language API Objectives Covered
+## Part 1: Cloud Natural Language API Objectives Covered
 - Syntax Analysis
 - Entity Recognition
 - Sentiment Analysis
@@ -14,3 +14,12 @@ Lab on GCP Natural Language API and CLI Inside SSH, Used Description of Historic
 - Created an API key
 - Created an NLP API request
 - Called the NLP API request
+
+
+## Part 2: Speech API
+Lab on GCP Speech API and CLI Inside SSH, Used Sample Sentences from U.S. Speaker and then API to Identify Elements of the Sentence
+
+## Objectives Covered
+- Created an API key
+- Created a Speech API request
+- Called the Speech API request
